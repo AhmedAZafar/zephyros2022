@@ -13,7 +13,7 @@
 
 *The OS X window manager for hackers*
 
-* Current version: **0.1**
+* Current version: **0.2**
 * Requires: OS X 10.7 and up
 
 Table of contents:

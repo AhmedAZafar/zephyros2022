@@ -6,6 +6,11 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
+      <title>Version 0.2</title>
+      <description>Fixed a security vulnerability</description>
+      <pubDate>Thu August 25 14:14:10 CDT 2022</pubDate>
+    </item>
+    <item>
       <title>Version 0.1</title>
       <description>Most recent Zephyros library - OS X Windows manager for Hackers</description>
       <pubDate>Thu August 25 13:52:44 CDT 2022</pubDate>
