@@ -13,9 +13,8 @@
 
 *The OS X window manager for hackers*
 
-* Current version: **2.4**
+* Current version: **0.1**
 * Requires: OS X 10.7 and up
-* Download: [latest .zip file](https://raw.github.com/sdegutis/zephyros/master/Builds/Zephyros-LATEST.app.tar.gz), unzip, right-click app, choose "Open"
 
 Table of contents:
 
