@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Zephyros Changelog</title>
+    <link>https://raw.github.com/sdegutis/zephyros/master/appcast.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.1</title>
+      <description>Most recent Zephyros library - OS X Windows manager for Hackers</description>
+      <pubDate>Thu August 25 13:52:44 CDT 2022</pubDate>
+    </item>
+  </channel>
+</rss>
